@@ -1,4 +1,4 @@
-window.alert("Try to change Theme of web page!!");
+alert("\n\nTry to change Theme of web page!!");
 
 //DOM Elements
 const darkButton = document.getElementById('dark');
