@@ -1,3 +1,5 @@
+window.alert("Try to change Theme of web page!!");
+
 //DOM Elements
 const darkButton = document.getElementById('dark');
 const lightButton = document.getElementById('light');
